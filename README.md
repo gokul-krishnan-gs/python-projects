@@ -11,7 +11,9 @@ This is a collection of small to medium-sized Python projects I've built to prac
 |------------------------|--------------------------------------------------|---------|
 | Expense Tracker (CLI)  | Add, view, total, and filter expenses            | ✅ Done |
 | Caesar Cipher          | Encrypt messages using Caesar cipher logic       | ✅ Done |
+| Case Converter         | convert camelCase or PascalCase to snake_case    | ✅ Done |
 | [More Coming Soon...]  | Stay tuned for additional projects               | 🚧 WIP  |
+
 
 > Each project has its own folder with:
 > - Source code (`.py` files)  
