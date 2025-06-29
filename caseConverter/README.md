@@ -1,6 +1,6 @@
 # 🐍 Convert camelCase / PascalCase to snake_case in Python
 
-This repository demonstrates how to convert strings written in **camelCase** or **PascalCase** to **snake_case** using two different Python approaches.
+This demonstrates how to convert strings written in **camelCase** or **PascalCase** to **snake_case** using two different Python approaches.
 
 ## 📂 Files Included
 
