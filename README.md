@@ -7,13 +7,13 @@ This is a collection of small to medium-sized Python projects I've built to prac
 
 ## 📌 What's Inside?
 
-| Project Name           | Description                                      | Status  |
-|------------------------|--------------------------------------------------|---------|
-| Expense Tracker (CLI)  | Add, view, total, and filter expenses            | ✅ Done |
-| Caesar Cipher          | Encrypt messages using Caesar cipher logic       | ✅ Done |
-| Case Converter         | convert camelCase or PascalCase to snake_case    | ✅ Done |
-| [More Coming Soon...]  | Stay tuned for additional projects               | 🚧 WIP  |
-
+| Project Name                      | Description                                           | Status  |
+|----------------------------------|-------------------------------------------------------|---------|
+| Expense Tracker (CLI)            | Add, view, total, and filter expenses                 | ✅ Done |
+| Caesar Cipher                    | Encrypt messages using Caesar cipher logic            | ✅ Done |
+| Case Converter                   | Convert camelCase or PascalCase to snake_case         | ✅ Done |
+| Square Root Calculator (Bisection Method) | Find square root using bisection algorithm     | ✅ Done |
+| [More Coming Soon...]            | Stay tuned for additional projects                    | 🚧 WIP  |
 
 > Each project has its own folder with:
 > - Source code (`.py` files)  
@@ -24,7 +24,9 @@ This is a collection of small to medium-sized Python projects I've built to prac
 ## 🎯 Why This Repo?
 
 This repository reflects my learning journey in Python.  
-Projects here are built with pure Python using foundational concepts .
+Projects here are built with pure Python using foundational concepts.
+
+---
 
 ## 🚀 How to Use
 
