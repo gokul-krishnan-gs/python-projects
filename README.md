@@ -14,6 +14,7 @@ This is a collection of small to medium-sized Python projects I've built to prac
 | Case Converter                   | Convert camelCase or PascalCase to snake_case         | ✅ Done |
 | Square Root Calculator (Bisection Method) | Find square root using bisection algorithm     | ✅ Done |
 | Password Generator                   | generates secure, random passwords        | ✅ Done |
+| Dijkstra Shortest path Finder                  | calculate the shortest path between nodes of graph using Dijkstra’s Algorithm       | ✅ Done |
 | [More Coming Soon...]            | Stay tuned for additional projects                    | 🚧 WIP  |
 
 > Each project has its own folder with:
